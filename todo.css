@@ -34,6 +34,7 @@
   }
   body {
       min-height: 100vh;
+      background-color: black;
   }
   #defs {
     display: none;
@@ -71,6 +72,7 @@
     text-align: center;
     border-bottom: 2px solid currentColor;
     font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
   }
   .todo-form {
     display: grid;
